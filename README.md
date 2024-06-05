@@ -2,10 +2,13 @@
 
 This uses the simple Sine-Env-Piano tool to play a two-hand melody of Faded. Since playing both hands simulatenously on the laptop keyboard was complicated, I used the record feature to first record the left hand arpeggios. I then recorded a the right hand melody as a second layer, while the first layer was playing in the background. This created one audio with the affect that both hands are simulataneously playing. 
 
+https://github.com/allolib-s24/notes-sharanyasharma21/assets/47366553/b0d6aa40-a004-40a8-8afc-95e189c2420a
 
 ### Project 2 - Nursery Rhyme Melody on Marimba using FM Synthesis (Sound Design)
 
-This sound design project uses FM Synthesis to replicate the sound of a Marimba. By changing the idx1, idx2, idx3, VALUE, and VALUE parameters to the values shown below, I was able to replicate the sound of a Marimba and play the common nursery rhyme melody, "Row, Row, Row Your Boat".
+This sound design project uses FM Synthesis to replicate the sound of a Marimba. By changing the idx1, idx2, idx3, carMul, and modMul parameters to the values shown below, I was able to replicate the sound of a Marimba and play the common nursery rhyme melody, "Row, Row, Row Your Boat".
+
+
 
 ### Project 3 - Frequency Multiplying Adjuster (Sound Design)
 
@@ -24,6 +27,8 @@ This spectrogram uses the Short-Time-Fourier Transform to create an audioreactiv
 ### Project 5 - Spectrogram Tutorial (Final Project Part B)
 
 The purpose of this project was to simplify the process of developing a spectrogram and provide a tutorial to those who would easily like to implement a spectrogram to their musical piece.
+
+[Spectrogram Tutorial Final Project CS190D.pdf](https://github.com/user-attachments/files/15573267/Spectrogram.Tutorial.Final.Project.CS190D.pdf)
 
 
 
