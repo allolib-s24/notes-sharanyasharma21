@@ -22,7 +22,7 @@ The purpose of this frequency adjuster is to allow the user to play their record
 
 ### Project 4 - Rondo Alla Turka Piano Sonata No.11 in A Major by Mozart (Musical Piece/Organized Sound)
 
-This uses the Sine-Env-Piano tool to play a complicated melody. The piece was played using the laptop keyboard. 
+This uses the Sine-Env-Piano tool to play a complicated melody. The piece was played using the laptop keyboard and was also used for the Spectrogram implementation below. Please refer to the video below to listen to the musical piece.
 
 ### Project 5 - Spectrogram implementation for Rondo Alla Turka Piano Sonata No.11 (Final Project Part A)
 
