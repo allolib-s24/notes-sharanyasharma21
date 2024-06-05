@@ -14,9 +14,11 @@ https://github.com/allolib-s24/notes-sharanyasharma21/assets/47366553/e80b4b2c-e
 
 ### Project 3 - Frequency Multiplying Adjuster (Sound Design)
 
-The purpose of this frequency adjuster is to allow the user to play their recorded piece in any octave desired. The FrequencyMult parameter value of 1 maintains the original octave. Values greater than 1 increases the frequency resulting in a higher octave, and values less than 1 decreases the frequency resulting in a lower octave. This allows the user to experiment with their piece and also access frequencies that are not in the standard allolib SineEnv keyboard. Prior to this, the only way of playing a piece at different frequencies was by converting MIDI file notes that already existed in the file, or hardcoding the values of the frequencies in the script.
+The purpose of this frequency adjuster is to allow the user to play their recorded piece in any octave desired. The freqMult parameter value of 1 maintains the original octave. Values greater than 1 increases the frequency resulting in a higher octave, and values less than 1 decreases the frequency resulting in a lower octave. This allows the user to experiment with their piece and also access frequencies that are not in the standard allolib SineEnv keyboard. Prior to this, the only way of playing a piece at different frequencies was by converting MIDI file notes that already existed in the file, or hardcoding the values of the frequencies in the script. The image below demonstrates using the playNote function to modify the parameters of each individual note, such that each note's frequency is multiplied by the freqMult value. Because the playNote funciton is called for each note, the playPiece function aggregates all the notes taking a parameter value for freqMult. Below is an image of how to implement this code. For this example, the freqMult value is 1, implying that the piece has retained its original frequency.
 
+<img width="869" alt="Screenshot 2024-06-04 at 9 54 07 PM" src="https://github.com/allolib-s24/notes-sharanyasharma21/assets/47366553/9d7a2759-db91-4499-92a2-adc56387ef9d">
 
+<img width="508" alt="Screenshot 2024-06-04 at 9 54 27 PM" src="https://github.com/allolib-s24/notes-sharanyasharma21/assets/47366553/180e4c60-3422-4594-8e1b-e5c5b5fd5f8b">
 
 ### Project 4 - Rondo Alla Turka Piano Sonata No.11 in A Major by Mozart (Musical Piece/Organized Sound)
 
@@ -26,7 +28,7 @@ This uses the Sine-Env-Piano tool to play a complicated melody. The piece was pl
 
 This spectrogram uses the Short-Time-Fourier Transform to create an audioreactive spectrogram that constantly changes color based on the frequencies of the piece and changes the coordinates of the waves based on trigonometric combinations of the (x,y,z) coordinates.
 
-
+https://github.com/allolib-s24/notes-sharanyasharma21/assets/47366553/e539faff-3dff-4292-bdc1-96339911a47b
 
 ### Project 6 - Spectrogram Tutorial (Final Project Part B)
 
