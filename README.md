@@ -12,6 +12,8 @@ This sound design project uses FM Synthesis to replicate the sound of a Marimba.
 
 https://github.com/allolib-s24/notes-sharanyasharma21/assets/47366553/e80b4b2c-ebe8-48e4-92b9-002f4b6859e1
 
+View Code reference here: https://github.com/allolib-s24/demo1-sharanyasharma21/blob/d6fc4cc4ff4e7f94695d896a770fbba76094079f/tutorials/synthesis/04_FM_Marimba.cpp#L46
+
 ### Project 3 - Frequency Multiplying Adjuster (Sound Design)
 
 The purpose of this frequency adjuster is to allow the user to play their recorded piece in any octave desired. The freqMult parameter value of 1 maintains the original octave. Values greater than 1 increases the frequency resulting in a higher octave, and values less than 1 decreases the frequency resulting in a lower octave. This allows the user to experiment with their piece and also access frequencies that are not in the standard allolib SineEnv keyboard. Prior to this, the only way of playing a piece at different frequencies was by converting MIDI file notes that already existed in the file, or hardcoding the values of the frequencies in the script. The image below demonstrates using the playNote function to modify the parameters of each individual note, such that each note's frequency is multiplied by the freqMult value. Because the playNote funciton is called for each note, the playPiece function aggregates all the notes taking a parameter value for freqMult. Below is an image of how to implement this code. For this example, the freqMult value is 1, implying that the piece has retained its original frequency.
