@@ -12,7 +12,7 @@ This sound design project uses FM Synthesis to replicate the sound of a Marimba.
 
 https://github.com/allolib-s24/notes-sharanyasharma21/assets/47366553/e80b4b2c-ebe8-48e4-92b9-002f4b6859e1
 
-View Code reference here: https://github.com/allolib-s24/demo1-sharanyasharma21/blob/d6fc4cc4ff4e7f94695d896a770fbba76094079f/tutorials/synthesis/04_FM_Marimba.cpp#L46
+View code reference here: https://github.com/allolib-s24/demo1-sharanyasharma21/blob/d6fc4cc4ff4e7f94695d896a770fbba76094079f/tutorials/synthesis/04_FM_Marimba.cpp#L46
 
 ### Project 3 - Frequency Multiplying Adjuster (Sound Design)
 
@@ -21,6 +21,12 @@ The purpose of this frequency adjuster is to allow the user to play their record
 <img width="869" alt="Screenshot 2024-06-04 at 9 54 07 PM" src="https://github.com/allolib-s24/notes-sharanyasharma21/assets/47366553/9d7a2759-db91-4499-92a2-adc56387ef9d">
 
 <img width="508" alt="Screenshot 2024-06-04 at 9 54 27 PM" src="https://github.com/allolib-s24/notes-sharanyasharma21/assets/47366553/180e4c60-3422-4594-8e1b-e5c5b5fd5f8b">
+
+View code references here:
+https://github.com/allolib-s24/demo1-sharanyasharma21/blob/d6fc4cc4ff4e7f94695d896a770fbba76094079f/tutorials/synthesis/Mozart_final_demo.cpp#L210
+
+https://github.com/allolib-s24/demo1-sharanyasharma21/blob/d6fc4cc4ff4e7f94695d896a770fbba76094079f/tutorials/synthesis/Mozart_final_demo.cpp#L331
+
 
 ### Project 4 - Rondo Alla Turka Piano Sonata No.11 in A Major by Mozart (Musical Piece/Organized Sound)
 
@@ -31,6 +37,8 @@ This uses the Sine-Env-Piano tool to play a complicated melody. The piece was pl
 This spectrogram uses the Short-Time-Fourier Transform to create an audioreactive spectrogram that constantly changes color based on the frequencies of the piece and changes the coordinates of the waves based on trigonometric combinations of the (x,y,z) coordinates.
 
 https://github.com/allolib-s24/notes-sharanyasharma21/assets/47366553/e539faff-3dff-4292-bdc1-96339911a47b
+
+View code here: https://github.com/allolib-s24/demo1-sharanyasharma21/blob/d6fc4cc4ff4e7f94695d896a770fbba76094079f/tutorials/synthesis/Mozart_final_demo.cpp#L331
 
 ### Project 6 - Spectrogram Tutorial (Final Project Part B)
 
